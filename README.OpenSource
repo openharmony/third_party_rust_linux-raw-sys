@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "linux-raw-sys",
+    "License": "Apache-2.0_WITH_LLVM-exception, Apache License 2.0, MIT",
+    "License File": "LICENSE-Apache-2.0_WITH_LLVM-exception, LICENSE-MIT",
+    "Version Number": "0.1.4",
+    "Owner": "fangting12@huawei.com",
+    "Upstream URL": "https://github.com/sunfishcode/linux-raw-sys",
+    "Description": "A Rust library that provides bindings to the Linux kernel's raw device interface."
+  }
+]
